@@ -1,6 +1,6 @@
 # batch-training-
 
-<img src="https://user-images.githubusercontent.com/77143046/135920063-17c6d1c8-a937-4033-b6f9-b6894ee6bdd7.mp4"
-alter="batch" border="0">
+<img src="https://user-images.githubusercontent.com/77143046/135922356-8a7bc81d-9250-4d0b-8c3b-759122c93b4b.mp4"
+
 
 examples of simple batch files 
